@@ -1,0 +1,4 @@
+hey my name is pankaj
+my age is 25
+this is the python file handiling txt file
+i am writing again after closing then reopening the file
